@@ -174,7 +174,10 @@ i {
     padding-bottom: 2pt;
 }
 
-
+.vertical-space {
+    width: 100%;
+    font-size: 2pt;
+}
 
 .my-education {
     width: 100%
